@@ -1,3 +1,22 @@
+Package: com.41oe.strike
+Architecture: iphoneos-arm
+Version: 20.0.1
+Section: Tweaks
+Maintainer: 41oe
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.41oe.strike_20.0.1_iphoneos-arm.deb
+Size: 83542
+MD5sum: 4ac4dfcf38f44f9af484f6fd352d0d7f
+SHA1: c2d5803df637f17164aa90b20bcbd91b3b187d54
+SHA256: 3a2c000b953207e8770c616fffe8c9a4c365b779c2b11648ad46bc815c7a900e
+SHA512: 14f67168bbaf61335fb62d1952c85e328b563a3cf7d1aa9252c79c0802c2374a6ee4c6729231aee886aab413ae20cc3bb837f54bd7067fac5875791830b2636d
+Homepage:
+Description:
+Name:  もんすと
+Author:
+Depiction:
+
 Package: com.lg.tsum
 Architecture: iphoneos-arm
 Version: 0.1
