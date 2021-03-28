@@ -1,3 +1,35 @@
+Package: com.135oe.komem
+Architecture: iphoneos-arm
+Version: 1atest
+Section: Tweaks
+Maintainer: 135oe
+Depends: mobilesubstrate
+Filename: ./debs/com.135oe.komem.v4.deb
+Size: 367034
+MD5sum: 187effe02c7caf76cc14633b9fcf7ba0
+SHA1: a14ebc47277bbb6107882cecd12d524fd1dc76f4
+SHA256: 14a6ad2f214746b873d62a01355f338d9478190d0cee147583dcdcfa7addf16b
+SHA512: 5d57e490edba5918e70ce381be75814f306d4fe857aacd282b66762b2282620212f8ecdd2bccc9a8b373b5eec22fc7583bcf6ea604e592a15d4c2286603379c9
+Description: KnivesOut ModMenu by 41oe and dev_st135
+Name: 135oe KnivesOut ModMenu
+Author: 135oe
+
+Package: com.135oe.puni
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: 135oe
+Depends: mobilesubstrate
+Filename: ./debs/com.135oe.ywp.deb
+Size: 353354
+MD5sum: f13f1191036cbf276fd4e4419db21e82
+SHA1: b2814bb2ae8c048943ee5e3974f4f6c3217e6092
+SHA256: 9366c10185df2ae1e7a5dcc0202a42e22b498e0e15df48a51d60cac97bc4d2ef
+SHA512: 610a65f99ec115ff09ca1a08c92f8f4386723ab7fc8ed7f803600a3903727520eb14bd618028738fff294970500ff1f1050163e5db58870ba2c7901775e1fad5
+Description: 妖怪ウォッチ ぷにぷに
+Name: 妖怪ウォッチ ぷにぷに Mod by 135oe
+Author: 135oe
+
 Package: com.lg.tsum
 Architecture: iphoneos-arm
 Version: 0.1
